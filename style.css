@@ -2,13 +2,14 @@ body{
     background-color: black;
     font-family: 'Sora', sans-serif;
 }
-.first{
+.first,.second{
     width:640px;
     height: 264px;
     background-color:#FFFFFF;
     text-align: center;
     padding-top: 40px;
-    margin:130px auto;
+    margin:110px auto;
+    border-radius: 4px;
 }
 h2 {
     font-size: 16px;
@@ -38,4 +39,22 @@ button{
     font-size: 18px;
 
 
+}
+.second input{
+
+    width:48px;
+    height:48px;
+    border: 1px solid #DADADA;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.second p{
+     text-align: center;
+    color:#A9A9A9;
+    font-size: 14px;
+
+}
+.second{
+    text-align: center;
 }
