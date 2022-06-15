@@ -58,7 +58,7 @@ button{
 .second{
     text-align: center;
 }
-.third{
+.third,.fourth{
     width: 664px;
     height: 576px;
     background-color: white;
@@ -86,7 +86,33 @@ button{
 .third input {
     margin-bottom: 16px;
 }
-.third button{
+.third,.fourth button{
     margin-left:120px;
 }
+
+ .fourth .inp1{
+    width: 408px;
+    height: 48px;
+}
+ .fourth .inp2{
+    width:200px;
+    height: 48px;
+}
+ .fourth .inp3{
+    width:304px;
+    height: 48px;
+}
+.fourth .inp4{
+    width:625px;
+    height: 48px;
+}
+.fourth input{
+    margin-bottom: 16px;
+    margin-left: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    border-radius: 8px;
+}
+
+
 
