@@ -31,7 +31,7 @@ input{
 button{
     width:384px;
     height: 48px;
-
+     text-align: center;
     background-color:  #232529;
     color:white;
     border-radius: 4px;
@@ -46,7 +46,7 @@ button{
     height:48px;
     border: 1px solid #DADADA;
     border-radius: 12px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-top: 20px;
 }
 .second p{
@@ -58,3 +58,35 @@ button{
 .second{
     text-align: center;
 }
+.third{
+    width: 664px;
+    height: 576px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 40px;
+    margin:50px auto ;
+    border-radius: 4px;
+}
+
+.third .inp{
+    width:200px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    border-radius: 8px;
+
+}
+.third .inp_long{
+    width: 408px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    border-radius: 8px;
+}
+.third input {
+    margin-bottom: 16px;
+}
+.third button{
+    margin-left:120px;
+}
+
