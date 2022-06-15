@@ -49,7 +49,7 @@ button{
     margin-bottom: 20px;
     margin-top: 20px;
 }
-.second p{
+.second,.fifth p{
      text-align: center;
     color:#A9A9A9;
     font-size: 14px;
@@ -113,6 +113,21 @@ button{
     border: 0.5px solid #AEAEAE;
     border-radius: 8px;
 }
+img{
+    padding:25px
+}
+.fifth{
+    background-color: white;
+    width:640px;
+    height:328px;
+    text-align: center;
+    margin:130px auto;
+    padding:40px;
+    border-radius: 4px;
+}
+
+
+
 
 
 
