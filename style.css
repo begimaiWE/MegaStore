@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    font-family: 'Sora', sans-serif;
+}
+.first{
+    width:640px;
+    height: 264px;
+    background-color:#FFFFFF;
+    text-align: center;
+    padding-top: 40px;
+    margin:130px auto;
+}
+h2 {
+    font-size: 16px;
+
+}
+p{
+    font-size: 14px;
+    text-align: start;
+    padding-left: 15px;
+
+}
+input{
+    width:608px;
+    height: 48px;
+    margin-bottom: 16px;
+    border:1px solid #DADADA;
+    border-radius: 4px;
+}
+button{
+    width:384px;
+    height: 48px;
+
+    background-color:  #232529;
+    color:white;
+    border-radius: 4px;
+    border:none;
+    font-size: 18px;
+
+
+}
