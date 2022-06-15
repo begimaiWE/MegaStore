@@ -1,139 +1,35 @@
 body{
-    background-color: black;
     font-family: 'Sora', sans-serif;
-}
-.first,.second{
-    width:640px;
-    height: 264px;
-    background-color:#FFFFFF;
-    text-align: center;
-    padding-top: 40px;
-    margin:110px auto;
-    border-radius: 4px;
-}
-h2 {
-    font-size: 16px;
-    color: black;
-
-}
+    background-color:#f5f5f5 ;
+}input,button{
+     width:340px;
+ }
 p{
     font-size: 14px;
-    text-align: start;
-    padding-left: 15px;
-
+}
+h2{
+    margin-bottom: 25px;
+    font-size: 16px;
 }
 input{
-    width:608px;
-    height: 48px;
-    margin-bottom: 16px;
+    margin-bottom: 25px;
+    height: 40px;
     border:1px solid #DADADA;
-    border-radius: 4px;
+    background-color:#f5f5f5 ;
 }
 button{
-    width:384px;
-    height: 48px;
-     text-align: center;
-    background-color:  #232529;
+    background-color:#232529;
     color:white;
+    height: 40px;
     border-radius: 4px;
     border:none;
-
-
-
 }
 a{
-    font-size: 18px;
-    color: white;
+    color:white;
     text-decoration: none;
 }
-.second input{
-
-    width:48px;
-    height:48px;
-    border: 1px solid #DADADA;
-    border-radius: 12px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-}
-.second,.fifth p{
-     text-align: center;
-    color:#A9A9A9;
-    font-size: 14px;
-
-}
-.second p{
-    text-align: center;
-}
-.third,.fourth{
-    width: 664px;
-    height: 576px;
-    background-color: white;
-    padding-left: 20px;
-    padding-top: 40px;
-    margin:50px auto ;
-    border-radius: 4px;
-
-}
-
-.third .inp{
-    width:200px;
-    height: 48px;
-    opacity: 0.5;
-    border: 0.5px solid #AEAEAE;
-    border-radius: 8px;
-
-}
-.third .inp_long{
-    width: 408px;
-    height: 48px;
-    opacity: 0.5;
-    border: 0.5px solid #AEAEAE;
-    border-radius: 8px;
-}
-.third input {
-    margin-bottom: 16px;
-}
-.fourth button{
-    margin-left:120px;
-}
-.third button{
-    margin-left:120px;
-}
-
- .fourth .inp1{
-    width: 408px;
-    height: 48px;
-}
- .fourth .inp2{
-    width:200px;
-    height: 48px;
-}
- .fourth .inp3{
-    width:304px;
-    height: 48px;
-}
-.fourth .inp4{
-    width:625px;
-    height: 48px;
-}
-.fourth input{
-    margin-bottom: 16px;
-    margin-left: 8px;
-    opacity: 0.5;
-    border: 0.5px solid #AEAEAE;
-    border-radius: 8px;
-}
-img{
-    padding:25px
-}
-.fifth{
-    background-color: white;
-    width:640px;
-    height:328px;
-    text-align: center;
-    margin:130px auto;
-    padding:40px;
-    border-radius: 4px;
+.first{
+    margin:150px auto;
 }
 
 
