@@ -6,6 +6,7 @@ body{
  }
 p{
     font-size: 14px;
+    color:#A9A9A9;
 }
 h2{
     margin-bottom: 25px;
@@ -28,11 +29,25 @@ a{
     color:white;
     text-decoration: none;
 }
-.first{
+.first,.second{
     margin:150px auto;
 }
+.second{
+    text-align: center;
+}
 
+.second input{
 
+    width:45px;
+    height:45px;
+    border:1px solid #DADADA;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    background-color:#f5f5f5 ;
+}
+.fifth{
+    text-align: center;
+}
 
 
 
